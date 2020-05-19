@@ -1,0 +1,13 @@
+.FormData {
+    margin: 20px auto;
+    width: 60%;
+    text-align: center;
+    box-shadow: 0 2px 3px rgb(45, 17, 71);
+    border: 1px solid rgb(35, 12, 37);
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.Header {
+    color: rgb(45, 17, 71);
+}

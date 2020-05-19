@@ -1,0 +1,21 @@
+.debtorsList {
+    margin: 2rem;
+    padding: 0;
+    text-align: center;
+}
+
+.item {
+    width: 25%;
+    margin: 5px 5px;
+    display: inline-block;
+}
+
+.debtorsList a {
+    text-decoration: none;
+    color: #120b31;
+    font-weight: bold;
+}
+
+.debtorsList a:hover {
+    color: #ae26c0;
+}
