@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/debtors/static/css/main.fce0787e.chunk.css",
+    "main.js": "/debtors/static/js/main.02a66f71.chunk.js",
+    "main.js.map": "/debtors/static/js/main.02a66f71.chunk.js.map",
+    "runtime-main.js": "/debtors/static/js/runtime-main.51d34261.js",
+    "runtime-main.js.map": "/debtors/static/js/runtime-main.51d34261.js.map",
+    "static/js/2.543cf5de.chunk.js": "/debtors/static/js/2.543cf5de.chunk.js",
+    "static/js/2.543cf5de.chunk.js.map": "/debtors/static/js/2.543cf5de.chunk.js.map",
+    "index.html": "/debtors/index.html",
+    "precache-manifest.b27762837112fff60ab6dc91e32ecfe0.js": "/debtors/precache-manifest.b27762837112fff60ab6dc91e32ecfe0.js",
+    "service-worker.js": "/debtors/service-worker.js",
+    "static/css/main.fce0787e.chunk.css.map": "/debtors/static/css/main.fce0787e.chunk.css.map",
+    "static/js/2.543cf5de.chunk.js.LICENSE.txt": "/debtors/static/js/2.543cf5de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51d34261.js",
+    "static/js/2.543cf5de.chunk.js",
+    "static/css/main.fce0787e.chunk.css",
+    "static/js/main.02a66f71.chunk.js"
+  ]
+}
