@@ -10,7 +10,7 @@ import * as serviceWorker from "./serviceWorker";
 configureStore();
 
 const app = (
-	<BrowserRouter>
+	<BrowserRouter basename={process.env.PUBLIC_URL}>
 		<App />
 	</BrowserRouter>
 );
